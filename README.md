@@ -2,8 +2,8 @@
 
 The solution deploys a python CDK for a predictive maintenance inferencing pipeline for Amazon Lookout for Equipment by using AWS IoT Core, Amazon S3, Amazon SNS, Amazon Kinesis Firehose and AWS Lambda
 
-![Architecture](project_arch_design.jpg)
-<img src="project_arch_design.jpg" alt="drawing" height="562" width="1549"/>
+
+<img src="project_arch_design.jpg" alt="drawing" height="340" width="849"/>
 ## Prerequisites
 
 - Python
